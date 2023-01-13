@@ -1,4 +1,4 @@
-                ![sample1](https://user-images.githubusercontent.com/53708840/212437984-5caac805-7a66-4b95-a3ae-ce95bb5eb0a8.png)
+![sample1](https://user-images.githubusercontent.com/53708840/212437984-5caac805-7a66-4b95-a3ae-ce95bb5eb0a8.png)
 
 
                                   # char-liverys
